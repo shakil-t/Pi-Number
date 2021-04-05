@@ -51,5 +51,3 @@ public static void division(double d1, double d2){
         division(c,s);
 }
 }
-
-
